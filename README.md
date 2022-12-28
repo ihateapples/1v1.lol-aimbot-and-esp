@@ -19,3 +19,4 @@ Goto "Scripts" Click new and paste the entire script into there delete the first
 
 
 Or watch this youtube tutorial I made "Youtube Link Here"
+It will be a tutorial on how to get it and a showcase.
